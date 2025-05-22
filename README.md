@@ -1,5 +1,6 @@
 ### ENCODER 8TO3 DATAFLOW Modelling
-
+# NAME:VINOTH K R
+# REG.NO:212224050060
 **AIM:**
 
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
@@ -36,21 +37,27 @@ Figure 02  Encoder 8 * 3
 
 **Procedure**
 
-/* write all the steps invloved */
+![image](https://github.com/user-attachments/assets/c2f60553-3878-49ca-bb99-d902c07d3ecf)
+
 
 **PROGRAM**
 
-/* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
+![image](https://github.com/user-attachments/assets/6007f549-380f-43aa-b6cf-2b6938976c2a)
 
-Developed by: RegisterNumber:
-*/
+
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
+![image](https://github.com/user-attachments/assets/d269d606-7bac-43c8-a8d6-53c3dcbb622e)
+
+
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+
+![image](https://github.com/user-attachments/assets/6dff995f-3482-4416-8540-798fb94207cf)
+
 
 **RESULTS**
 
-
+Result: The implementation of Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
 
 
